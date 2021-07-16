@@ -31,7 +31,7 @@ def run():
     bot.load_extension("economy")
     bot.load_extension("general")
     bot.load_extension("prefix")
-    bot.run('ODQyNDE5OTAxOTQ2NjU4ODY2.YJ1CrA.31A2s-I-2JIB1Bbz4T2us2PzMN0')
+    bot.run('token')
 
 
 run()
